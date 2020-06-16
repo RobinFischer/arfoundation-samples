@@ -1,4 +1,9 @@
-# AR Foundation Samples
+# AR Foundation ~~Samples~~ Barracuda-test
+
+This project contains a small adjustment in the CameraImage scene to run an image detection on the received camera image.
+Currently it crashes after a few inferences but it's still manages to pass the Hotdog-test:
+![image](https://ibb.co/NpsSXNb)
+
 
 Example projects that use [*AR Foundation 4.0*](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.0/manual/index.html) and demonstrate its functionality with sample assets and components.
 
